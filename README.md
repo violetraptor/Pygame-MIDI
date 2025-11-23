@@ -1,7 +1,10 @@
 2025-11-23
 
 pymidi.py
--> Exploring the opportunities of the Pygame MIDI module. This is an exercise for myself. I invite you to learn with me.
+-> Exploring the opportunities of the Pygame MIDI module. This is an exercise for myself. I invite you to learn with me. First step.
+
+pymidi_stepUp.py
+-> Second Step: Steps up the musical scale.
 
 Steps
 
