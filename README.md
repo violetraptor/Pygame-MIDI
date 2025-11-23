@@ -9,7 +9,7 @@ Steps
 2. Make a folder for your new python project such as "pygameMIDI".
 3. Download pymidi.py in this folder
 4. Open your terminal or PowerShell.
-5. Change to your folder with "cd", for example: cd "F:\home\pikatch\pygameMIDI"
+5. Change to your folder with "cd", for example: cd "F:\home\pikatchu\pygameMIDI\"
 6. Make a new "Python Virtual Environments": py -m venv venv
 7. Activate the venv with: .\venv\Scripts\Activate
 8. Install Pygame: pip install pygame
