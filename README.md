@@ -1,10 +1,13 @@
 2025-11-23
 
 pymidi.py
--> Exploring the opportunities of the Pygame MIDI module. This is an exercise for myself. I invite you to learn with me. First step.
+-> First step: Exploring the opportunities of the Pygame MIDI module. This is an exercise for myself. I invite you to learn with me.
 
 pymidi_stepUp.py
--> Second Step: Steps up the musical scale.
+-> Second step: Steps up the musical scale.
+
+pymidi_Canon_D.px
+-> Third step: A little song "Canon in D"
 
 Steps
 
@@ -16,6 +19,6 @@ Steps
 6. Make a new "Python Virtual Environments": py -m venv venv
 7. Activate the venv with: .\venv\Scripts\Activate
 8. Install Pygame: pip install pygame
-9. Run the file: py .\pymidi.py
+9. Run the file: py .\pymidi.py 
 
 Tip: in the venv folder is a example-file: F:\home\pikatchu\venv\Lib\site-packages\pygame\examples --> midi.py
